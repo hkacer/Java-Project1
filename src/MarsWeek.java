@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Mars {
+public class MarsWeek {
 
     public static void main (String[]args) throws InterruptedException {
 
